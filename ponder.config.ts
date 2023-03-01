@@ -11,6 +11,7 @@ export const config: PonderConfig = {
       abi: "./abis/Proxy.json",
       address: "0xee36eaad94d1cc1d0eccadb55c38bffb6be06c77",
       startBlock: 49669971,
+      blockLimit: 10000,
     },
   ],
 };
