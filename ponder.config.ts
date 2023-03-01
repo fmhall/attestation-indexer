@@ -10,7 +10,7 @@ export const config: PonderConfig = {
       network: "optimism",
       abi: "./abis/Proxy.json",
       address: "0xee36eaad94d1cc1d0eccadb55c38bffb6be06c77",
-      startBlock: 49669971,
+      startBlock: 63856495,
       endBlock: 70949761,
       blockLimit: 10000,
     },
